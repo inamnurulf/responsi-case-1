@@ -2,7 +2,7 @@
 
 Nama : In'am Nurul Fuady  
 NIU : 479707  
-Sesi : Senin
+Sesi : Senin  
 Secret String : 6682d96cd67db07deacf3f0ea44eee7eb8c773b4a9ecaa1384833ce0eebc3ee220240603011007
 
 ## Checklist Responsi
